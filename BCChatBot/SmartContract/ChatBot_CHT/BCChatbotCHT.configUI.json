@@ -1,0 +1,78 @@
+{
+    "Contracts": {
+        "BCChatbotCHT": {
+            "InitiatingRoles": [
+                "Admin",
+                "User"
+            ],
+            "Personas": {
+                "Owner": {
+                    "Role": "Initiator",
+                    "IsInitiator": true,
+                    "PropertyMapping": "Owner"
+                },
+                "Changer": {
+                    "Role": "Participant",
+                    "PropertyMapping": "Changer"
+                }
+            },
+            "StateProperty": "State",
+            "StateMapping": {
+                "Active": 0,
+                "Modified": 1
+            },
+            "States": {
+                "Active": {
+                    "PercentComplete": 20,
+                    "IsInitiatingState": true,
+                    "IsDefaultState": true,
+                    "TargetState": "ModifyData",
+                    "Style": "Success",
+                    "Actions": {
+                        "Changer": {
+                            "ModifyData": {
+                                "DisplayName": "更改對談資料",
+								"Theme": {}
+                            }
+                        }
+                    }
+                },
+                "Modified": {
+                    "PercentComplete": 100,
+                    "Style": "Success",
+                    "Actions": {
+                        "Changer": {
+                            "ModifyData": {
+                                "DisplayName": "更改對談資料",
+								"Theme": {}
+                            }
+                        }
+                    }
+                }
+            },
+            "Properties": {
+                "Owner": {
+                    "DisplayName": "擁有者",
+                    "Description": "擁有者開始Chatbot對談"
+                },
+                "Changer": {
+                    "DisplayName": "修改者",
+                    "Description": "修改者可以增加對談紀錄"
+                }, 
+                "State": {
+                    "DisplayName": "狀態",
+                    "Description": "Smart Contract 狀態"
+                },
+                "Data": {
+                    "DisplayName": "對談資料",
+                    "Description": "使用者目前對談資料"
+                }
+            },
+            "Constructor": {
+                "DisplayName": "建立對談紀錄",
+                "Description": "紀錄ChatBot的對談過程"
+            },
+            "Actions": {}
+        }
+    }
+}

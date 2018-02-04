@@ -1,0 +1,15 @@
+D:\OneDriveData\OneDrive\Work\Projects\BlockChain_HClient\BlockEventHub\bin\Debug\BlockEventHub.exe.config
+D:\OneDriveData\OneDrive\Work\Projects\BlockChain_HClient\BlockEventHub\bin\Debug\BlockEventHub.exe
+D:\OneDriveData\OneDrive\Work\Projects\BlockChain_HClient\BlockEventHub\bin\Debug\BlockEventHub.pdb
+D:\OneDriveData\OneDrive\Work\Projects\BlockChain_HClient\BlockEventHub\obj\Debug\BlockEventHub.csproj.CoreCompileInputs.cache
+D:\OneDriveData\OneDrive\Work\Projects\BlockChain_HClient\BlockEventHub\obj\Debug\BlockEventHub.exe
+D:\OneDriveData\OneDrive\Work\Projects\BlockChain_HClient\BlockEventHub\obj\Debug\BlockEventHub.pdb
+D:\OneDriveData\OneDrive\Work\Projects\BlockChain_HClient\BlockEventHub\bin\Debug\Microsoft.Azure.Amqp.dll
+D:\OneDriveData\OneDrive\Work\Projects\BlockChain_HClient\BlockEventHub\bin\Debug\Microsoft.Azure.EventHubs.dll
+D:\OneDriveData\OneDrive\Work\Projects\BlockChain_HClient\BlockEventHub\bin\Debug\Microsoft.ServiceBus.dll
+D:\OneDriveData\OneDrive\Work\Projects\BlockChain_HClient\BlockEventHub\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\OneDriveData\OneDrive\Work\Projects\BlockChain_HClient\BlockEventHub\bin\Debug\Microsoft.Azure.Amqp.xml
+D:\OneDriveData\OneDrive\Work\Projects\BlockChain_HClient\BlockEventHub\bin\Debug\Microsoft.Azure.EventHubs.xml
+D:\OneDriveData\OneDrive\Work\Projects\BlockChain_HClient\BlockEventHub\bin\Debug\Microsoft.ServiceBus.xml
+D:\OneDriveData\OneDrive\Work\Projects\BlockChain_HClient\BlockEventHub\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\OneDriveData\OneDrive\Work\Projects\BlockChain_HClient\BlockEventHub\obj\Debug\BlockEventHub.csprojResolveAssemblyReference.cache
